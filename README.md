@@ -32,3 +32,11 @@ In Bagels, a deductive logic game, you must guess a secret three-digit number ba
 #### Preview
 
 ![Bagels Snapshot](docs/images/bagels.png)
+
+### #2 Birthday Paradox
+
+This Python program simulates the Birthday Paradox using a Monte Carlo approach. It randomly generates a set number of birthdays, checks for duplicates, and runs 100,000 simulations to estimate the probability of at least two people sharing a birthday in a group. The results highlight the surprisingly high likelihood of birthday matches in even relatively small groups.
+
+#### Preview
+
+![Birthday Paradox Snapshot](docs/images/birthday_paradox.png)
